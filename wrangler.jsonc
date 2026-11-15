@@ -1,11 +1,7 @@
 {
-  "$schema": "node_modules/wrangler/config-schema.json",
   "name": "ydpano",
-  "compatibility_date": "2026-11-10",
-  "observability": {
-    "enabled": true
-  },
+  "compatibility_date": "2026-11-15",
   "assets": {
-    "directory": "_site"
+    "directory": "."
   }
 }
